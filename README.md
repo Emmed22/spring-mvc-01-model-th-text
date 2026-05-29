@@ -1,4 +1,4 @@
-# Mini-Projeto-1-Treinando-Model-th-text
+# spring-mvc-01-model-th-text
 Estou criando este projeto para estudar MVC com Java, nesta parte treinarei  Model+ th:text
 
 # Objetivo:

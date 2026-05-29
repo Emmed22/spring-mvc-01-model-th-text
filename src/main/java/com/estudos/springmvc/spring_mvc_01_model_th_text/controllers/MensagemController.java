@@ -16,6 +16,8 @@ public class MensagemController {
         model.addAttribute("nome", "Mari");
         // - curso = DSM
         model.addAttribute("curso", "DSM");
+        model.addAttribute("linguagem", "Java");
+        model.addAttribute("semestre", "Terceiro Semestre");
         // 5. Spring envia isso para o HTML
         // 6. Thymeleaf lê ${nome} e ${curso}
         // 7. Página aparece pronta
